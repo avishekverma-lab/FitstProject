@@ -9,4 +9,4 @@ with open('credentials.log', 'a') as f:
     f.write(f"Username: {username}\n")
     f.write(f"Password: {password}\n")
 
-print("Credentials saved to credentials.log")
+print("E:\git\FitstProject\Credentials saved to credentials.log")
