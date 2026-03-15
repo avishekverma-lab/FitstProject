@@ -16,4 +16,4 @@ with open('E:\\git\\FitstProject\\credentials.log', 'a') as f:
     f.write(f"Password: {password}\n")
     f.write("\n") # Add a newline for better readability between entries
 
-print("Credentials and timestamp saved to credentials.log")2234
+print("Credentials and timestamp saved to credentials.log")
