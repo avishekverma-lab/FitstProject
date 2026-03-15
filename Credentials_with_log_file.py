@@ -6,6 +6,7 @@ print(f"Password: {password}")
 
 # Write to a log file
 with open('credentials.log', 'a') as f:
+    f.write(f"------------------------\n")
     f.write(f"Username: {username}\n")
     f.write(f"Password: {password}\n")
 
